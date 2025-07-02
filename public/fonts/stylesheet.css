@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Medium.woff2') format('woff2'),
+        url('LeagueSpartan-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-SemiBold.woff2') format('woff2'),
+        url('LeagueSpartan-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Thin.woff2') format('woff2'),
+        url('LeagueSpartan-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-ExtraLight.woff2') format('woff2'),
+        url('LeagueSpartan-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Light.woff2') format('woff2'),
+        url('LeagueSpartan-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Regular.woff2') format('woff2'),
+        url('LeagueSpartan-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Bold.woff2') format('woff2'),
+        url('LeagueSpartan-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans.woff2') format('woff2'),
+        url('MADEOuterSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans-Thin.woff2') format('woff2'),
+        url('MADEOuterSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans-Black.woff2') format('woff2'),
+        url('MADEOuterSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-Black.woff2') format('woff2'),
+        url('LeagueSpartan-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'League Spartan';
+    src: url('LeagueSpartan-ExtraBold.woff2') format('woff2'),
+        url('LeagueSpartan-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans-Light.woff2') format('woff2'),
+        url('MADEOuterSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans-Medium.woff2') format('woff2'),
+        url('MADEOuterSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE Outer Sans';
+    src: url('MADEOuterSans-Bold.woff2') format('woff2'),
+        url('MADEOuterSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+.made_outer-sans {
+    font-family: 'MADE Outer Sans', sans-serif !important;
+}
+
+body {
+    font-family: 'League Spartan', sans-serif !important;
+}
+
+.weight-100 {
+    font-weight: 100 !important;
+}
+.weight-200 {
+    font-weight: 200 !important;
+}
+.weight-300 {
+    font-weight: 300 !important;
+}
+.weight-400 {
+    font-weight: 400 !important;
+}
+.weight-500 {
+    font-weight: 500 !important;
+}
+.weight-600 {
+    font-weight: 600 !important;
+}
+.weight-700 {
+    font-weight: 700 !important;
+}
+.weight-800 {
+    font-weight: 800 !important;
+}
+.weight-900 {
+    font-weight: 900 !important;
+}
